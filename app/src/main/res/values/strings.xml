@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Multilenguaje</string>
+    <string name="str_console">Mostrar texto en Consola</string>
+    <string name="str_alert">Mostrar texto en Alert</string>
+    <string name="str_aqui">Escribe el texto aqui</string>
+    <string name="str_toast">Mostrar texto en Toast</string>
+    <string name="str_tituloDialog">Titulo del dialogo</string>
+    <string name="str_later">Más tarde</string>
+    <string name="str_no">No</string>
+    <string name="str_yes">Si</string>
+
+</resources>

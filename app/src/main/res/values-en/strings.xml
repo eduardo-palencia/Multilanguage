@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multilanguage</string>
+    <string name="str_console">Show text in Console</string>
+    <string name="str_alert">Show text in Alert</string>
+    <string name="str_aqui">Write text here</string>
+    <string name="str_toast">Show the text in Toast</string>
+    <string name="str_tituloDialog">Dialog Title</string>
+    <string name="str_later">Later</string>
+    <string name="str_no">No</string>
+    <string name="str_yes">Yes</string>
+
+</resources>
